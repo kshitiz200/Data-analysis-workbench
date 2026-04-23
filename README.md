@@ -90,7 +90,3 @@ jupyter notebook
 * Building small but complete data projects
 
 ---
-
-If you’re reviewing this as a recruiter or developer:
-
-This repo is less about “perfect code” and more about how I’m **learning, experimenting, and improving over time**.
